@@ -8,3 +8,5 @@ function header(text) {
     </header>
   `;
 }
+
+console.log("a");
